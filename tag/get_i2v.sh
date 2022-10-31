@@ -1,0 +1,1 @@
+nohup python -u watchdog.py >> output.log 2>&1 &
