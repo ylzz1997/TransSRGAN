@@ -1,0 +1,1 @@
+nohup python -u gan_new.py >> output.log 2>&1 & echo $! >> output.log
